@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: caa21759d7dd0dd4481fd43ecb8bcd2e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259777
+  packageName: URP Toon Shader
+  packageVersion: 1.0.1
+  assetPath: Assets/Settings/URP-Asset.asset
+  uploadId: 616165
